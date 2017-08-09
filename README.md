@@ -1,2 +1,4 @@
-# Optum_IaaS_win_vmcfg
-Cookbook to configure vm
+# optum_iaas_win_vmcfg
+
+TODO: Enter the cookbook description here.
+
