@@ -7,7 +7,7 @@ Introduction:
 ### List of what gets configured
 Virtual Machine Post Configurations
   1. Windows Services
-    a. wuauserv (Windows Update) - Sets to Manual
+    1a. wuauserv (Windows Update) - Sets to Manual
     b. NlaSvc (Network Location Awareness - Sets to Manual
     c. browser (Computer Browser) - Sets to disable
     d. BITS (Background Intelligent Transfer Service) - Sets to Manual
