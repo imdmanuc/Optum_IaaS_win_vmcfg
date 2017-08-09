@@ -30,14 +30,9 @@ Virtual Machine Post Configurations
 
 Windows Version                     
 ------------------------
-Windows Server 2012                 
-Windows Server 2012R2               
+Windows Server 2012 - Full/Self-Support                 
+Windows Server 2012 R2 - Full/Self-Support
 
 ### Chef
 
 - Chef 12.6+
-
-### Cookbooks
-
-Snow Inventory Client - Cookbook: snow-client
-Add server to domain and OU - ad-join::
